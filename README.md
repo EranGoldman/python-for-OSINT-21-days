@@ -16,8 +16,30 @@
 
 ### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf)
 
-
 Also you can use [Notion template](https://elated-herring-608.notion.site/c3b34c75a408458e8d3cb013adeab5fd?v=de729dfd0c3c483f8b7fb708ed6a3911)
+
+
+## UPD: 06 January 2026
+
+
+This course was written back in the good old days when Gitpod offered users 50 hours of free work per month. But that was a long time ago, and now this service has become paid.
+
+Fortunately, you can still execute the commands from this course in Github Codespace. 
+
+To do this:
+
+1. Log in to Github and open the course repository page (Linux for OSINT or Python for OSINT).
+   
+<img src="https://github.com/cipher387/linux-for-OSINT-21-day/blob/main/create_codespace.png" width="100%" />
+
+2. Click Code -> Create codespace on main.
+
+<img src="https://github.com/cipher387/linux-for-OSINT-21-day/blob/main/codespace.png" width="100%" />
+
+3. Wait a moment and start using the working environment in the same way as Gitpod (as described in the PDF).
+
+There may be some limitations, but this is sufficient for a general introduction to the course. And remember that you can always just use any Ubuntu-based Linux VM on your computer to take the course.
+
 
 
 ## Table of contents
